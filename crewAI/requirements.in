@@ -1,0 +1,7 @@
+crewai
+crewai-tools
+duckduckgo-search
+python-dotenv
+langchain-community
+langchain_openai
+crewai[tools]
